@@ -1,0 +1,19 @@
+{
+  "name": "zro-tsk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsfanUlla/zro-tsk.git"
+  },
+  "author": "Asfan Ulla <asfanulla@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsfanUlla/zro-tsk/issues"
+  },
+  "homepage": "https://github.com/AsfanUlla/zro-tsk#readme"
+}
